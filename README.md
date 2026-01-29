@@ -1,2 +1,4 @@
 # nonprofit-financial-accountability-capstone
-This capstone project examines how publicly available nonprofit financial data can be used to support transparency, accountability, and data-driven decision-making.
+This capstone project examines how publicly available nonprofit financial data can be used to support transparency, accountability, and data-driven decision-making. Using IRS Form 990 annual financial extracts, the study analyzes how nonprofit organizations allocate resources, manage administrative costs, and maintain financial sustainability over time.
+
+Through structured data preparation, SQL-based analysis in Google BigQuery, and visualization in Google Sheets, key accountability metrics were derived, including program expense ratios, administrative and fundraising cost ratios, operating margins, and asset coverage ratios. The findings demonstrate that while nonprofits largely prioritize mission-related spending, many operate with thin margins and varying levels of financial resilience. These insights highlight the importance of using multiple financial indicators—not just program spending ratios—to evaluate nonprofit performance and sustainability.
